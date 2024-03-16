@@ -10,7 +10,7 @@ The following functionality is completed:
 - [X] User can view an image on the website
 - [X] User can scroll down while the footer of the website remains in place
 
-## How to run app
+## How to run
 
 1. Double-click on the index.html, it should launch locally in your default browser
 2. Use the app!
